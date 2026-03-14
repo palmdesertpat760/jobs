@@ -4,6 +4,8 @@ Analyzing how susceptible every occupation in the US economy is to AI and automa
 
 **Live demo: [karpathy.ai/jobs](https://karpathy.ai/jobs/)**
 
+![AI Exposure Treemap](jobs.png)
+
 ## What's here
 
 The BLS OOH covers **342 occupations** spanning every sector of the US economy, with detailed data on job duties, work environment, education requirements, pay, and employment projections. We scraped all of it, scored each occupation's AI exposure using an LLM, and built an interactive treemap visualization.
